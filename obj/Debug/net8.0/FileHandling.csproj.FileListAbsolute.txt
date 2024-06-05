@@ -1,0 +1,14 @@
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/bin/Debug/net8.0/FileHandling
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/bin/Debug/net8.0/FileHandling.deps.json
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/bin/Debug/net8.0/FileHandling.runtimeconfig.json
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/bin/Debug/net8.0/FileHandling.dll
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/bin/Debug/net8.0/FileHandling.pdb
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/obj/Debug/net8.0/FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/obj/Debug/net8.0/FileHandling.AssemblyInfoInputs.cache
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/obj/Debug/net8.0/FileHandling.AssemblyInfo.cs
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/obj/Debug/net8.0/FileHandling.csproj.CoreCompileInputs.cache
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/obj/Debug/net8.0/FileHandling.dll
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/obj/Debug/net8.0/refint/FileHandling.dll
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/obj/Debug/net8.0/FileHandling.pdb
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/obj/Debug/net8.0/FileHandling.genruntimeconfig.cache
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/tarea de investigacion/FileHandling/obj/Debug/net8.0/ref/FileHandling.dll
